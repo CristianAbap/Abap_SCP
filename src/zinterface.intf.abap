@@ -1,0 +1,4 @@
+interface ZINTERFACE
+  public .
+
+endinterface.
